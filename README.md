@@ -10,7 +10,7 @@ The thing is, every week the numbers drawn have an equal chance of selection. Pr
 
 Here's a thought. Although every week the numbers have the same chance of being picked, what if you look at the numbers over a series of weeks? Repeated numbers in consecutive weeks is not common. I did study probability and statistics at University, but this was over forty years ago. I vaguely remember there is something about sequences, where subsequent numbers have a dependency on previous numbers, and this changes the probability. I could be talking complete bollocks, of course. It isn't the first time, and it definitely won't be the last.
 
-We also get different distributions of numbers. Sometimes they are evenly spread. Other times they can be bunched. Skewed low or high. Split low and high. I don't think there is any mathematical analysis applicable, but my observation is that you never get a single distribution pattern repeated indefinitely.
+We also get different distributions of numbers. Sometimes they are evenly spread. Other times they can be bunched. Skewed low or high. Split low and high. There isn't any mathematical analysis applicable, but my observation is that you never get a single distribution pattern repeated indefinitely.
 
 I will put something together to pick numbers on this basis. So my requirements are:
 
