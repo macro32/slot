@@ -3,7 +3,7 @@
 #
 #  main.py
 #  
-#  Copyright 2018 john@johnratcliffe.com
+#  Copyright 2018 John Ratcliffe
 #  
 
 import subprocess
